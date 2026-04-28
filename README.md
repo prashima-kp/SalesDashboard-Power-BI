@@ -39,6 +39,5 @@ This project analyzes car sales data to track performance across different regio
 - Investigate cost structure of low-profit brands to improve margins
 - Plan marketing campaigns around peak months like February to maximize revenue
 - Diversify brand performance to reduce dependency on top-selling brands
-- 
 
 
