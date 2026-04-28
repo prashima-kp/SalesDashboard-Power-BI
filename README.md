@@ -24,3 +24,4 @@ This project analyzes car sales data to track performance across different regio
 
 ## 📸 Dashboard Preview
 (Add your screenshots here)
+<img width="1322" height="674" alt="Screenshot 2026-04-16 112023" src="https://github.com/user-attachments/assets/45cbe71f-f2e0-4cbe-9927-ea996bb53fdb" />
