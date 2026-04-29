@@ -1,4 +1,5 @@
 Car Sales Dashboard (Power BI)
+
 📊 Project Overview
 
 This project analyzes car sales data to identify trends, top-performing brands, and revenue patterns. The dashboard helps track business performance and supports data-driven decision-making.
