@@ -27,7 +27,6 @@ The dataset includes:
 - Total Revenue
 - Total Profit
 - Total Units Sold
-- Monthly Sales Trend
 
 🔍 Key Insights
 
