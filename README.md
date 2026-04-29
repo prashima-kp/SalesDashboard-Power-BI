@@ -1,51 +1,54 @@
-# 🚗 Car Sales Dashboard (Power BI)
+Car Sales Dashboard (Power BI)
 
-## 📊 Overview
-This project analyzes car sales data to track performance across regions, models, and time periods. The dashboard provides interactive insights to support data-driven business decisions.
+📊 Project Overview
 
-## 🛠 Tools Used
+This project analyzes car sales data to identify trends, top-performing brands, and revenue patterns. The dashboard helps track business performance and supports data-driven decision-making.
+
+🛠 Tools Used
+
 - Power BI
 - Excel
 
-## 📈 Key Features
-- KPI cards for Total Sales, Revenue, and Profit
-- Sales analysis by Region
-- Top-performing car models
-- Monthly sales trend visualization
+📁 Dataset
 
-## 📸 Dashboard Preview
-<img width="1322" height="652" alt="Dashboard Preview" src="https://github.com/user-attachments/assets/443e0330-c8f6-4cc5-b462-959175adb9a7" />
+The dataset includes:
 
-Interactive Power BI dashboard showing sales KPIs, trends, and regional performance.
+- Order Date
+- Customer Segment
+- Region
+- Product Category
+- Product Name
+- Sales
+- Profit
+- Quantity
 
-## 🔍 Key Insights
-- Toyota is the top-performing brand, contributing the highest sales volume  
-- Sales peak in February, indicating strong seasonal demand  
-- Some brands generate high revenue but lower profit margins  
-- Sales vary across months, showing clear seasonal trends  
-- A small group of top brands contributes the majority of total sales  
+📈 Key KPIs
 
-## 📊 Analysis & Observations
-- High sales but low profitability in some brands suggests pricing or cost inefficiencies  
-- Revenue concentration indicates dependency on a few top-performing brands  
+- Total Revenue
+- Total Profit
+- Total Units Sold
+- Monthly Sales Trend
 
-## 💡 Business Recommendations
-- Focus on promoting high-profit brands, not just high-sales brands  
-- Optimize pricing or cost structure for low-margin products  
-- Align marketing campaigns with peak months like February  
-- Diversify sales across more brands to reduce dependency risk  
+🔍 Key Insights
 
-## 📊 Business Impact
-This dashboard enables:
-- Better tracking of sales performance and KPIs  
-- Identification of high-value products and regions  
-- Data-driven decision-making for sales and marketing strategies  
+- Sales peak in February, indicating seasonal demand
+- Toyota is the top-performing brand in terms of revenue and profit
+- Some brands generate high sales but lower profit margins
+- Sales declined during April–May and showed recovery in June
 
-## 📁 Files
-- car_sales_dashboard.pbix  
-- dataset.xlsx  
+💡 Business Recommendations
 
-## 🚀 Future Improvements
-- Add customer segmentation analysis  
-- Integrate real-time data sources  
-- Enhance dashboard interactivity
+- Focus on high-profit products instead of only high sales
+- Increase inventory during peak sales periods
+- Review low-profit brands to improve margins
+
+📷 Dashboard Preview
+
+Main Dashboard
+
+"Dashboard" (<img width="1323" height="656" alt="Screenshot 2026-04-17 094949" src="https://github.com/user-attachments/assets/4205cea2-b80f-49e6-9d6a-6c7e8e70ba8d" />
+)
+
+🚀 Conclusion
+
+This dashboard provides a clear overview of sales performance, helping businesses understand trends, optimize strategies, and improve profitability.
