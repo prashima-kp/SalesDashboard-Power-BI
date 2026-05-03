@@ -49,12 +49,6 @@ Organizations often struggle to understand sales performance across products and
 - Highlighted seasonal sales trends across months
 - Provided visibility into product-level performance distribution
 
----
-
-## 📁 Project Files
-- Power BI Dashboard (.pbix file)
-- Dataset (Excel file)
-- README documentation
 
 ---
 
