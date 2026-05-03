@@ -33,9 +33,9 @@ This project analyzes car sales performance across brands and regions using Powe
 
 ## Screenshot
 
-(<img width="672" height="335" alt="Screenshot 2026-05-02 142701" src="https://github.com/user-attachments/assets/2004d8d3-0901-45a1-80c1-93d41a357b0d" />
+<img width="672" height="335" alt="Screenshot 2026-05-02 142701" src="https://github.com/user-attachments/assets/2004d8d3-0901-45a1-80c1-93d41a357b0d" />
 
-)
+
 
 ## Author
 
