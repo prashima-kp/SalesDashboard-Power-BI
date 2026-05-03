@@ -71,6 +71,11 @@ This dashboard enables stakeholders to:
 
 ---
 
+
+## Dashboard Preview
+<img width="1271" height="659" alt="Screenshot 2026-05-03 085516" src="https://github.com/user-attachments/assets/157e6c2a-9e23-4839-896b-0df8aa13a51c" />
+
+
 ## 🔗 Author
 Prashima KP  
 GitHub: https://github.com/prashima-kp
