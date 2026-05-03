@@ -28,12 +28,13 @@ This project analyzes car sales performance across brands and regions using Powe
 
 ## Files
 
-* `car-sales-dashboard.pbix` → Main dashboard file
+* `Prashima.pbix` → Main dashboard file
 * `dashboard.png` → Dashboard preview
 
 ## Screenshot
 
-(<img width="1242" height="641" alt="Screenshot 2026-05-02 143436" src="https://github.com/user-attachments/assets/74930d19-8e25-4515-8ab3-c4cce4463773" />
+(<img width="672" height="335" alt="Screenshot 2026-05-02 142701" src="https://github.com/user-attachments/assets/2004d8d3-0901-45a1-80c1-93d41a357b0d" />
+
 )
 
 ## Author
