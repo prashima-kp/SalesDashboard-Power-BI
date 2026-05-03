@@ -1,53 +1,41 @@
-Car Sales Dashboard (Power BI)
+# Car Sales performance Dashboard (Power BI)
 
-📊 Project Overview
+## Overview
 
-This project analyzes car sales data to identify trends, top-performing brands, and revenue patterns. The dashboard helps track business performance and supports data-driven decision-making.
+This project analyzes car sales performance across brands and regions using Power BI. It provides insights into revenue, profit, and sales trends to support business decision-making.
 
-🛠 Tools Used
+## Key Features
 
-- Power BI
-- Excel
+* Total Revenue: 5.47B AED
+* Total Profit: 904M AED
+* Units Sold: 4,287
+* Brand-wise performance analysis
+* Monthly revenue and profit trends
+* Regional sales breakdown
+* Profit vs Units analysis
 
-📁 Dataset
+## Tools Used
 
-The dataset includes:
+* Power BI
+* Power Query (Data Cleaning)
+* DAX (Basic Measures)
 
-- Order Date
-- Customer Segment
-- Region
-- Product Category
-- Product Name
-- Sales
-- Profit
-- Quantity
+## Key Insights
 
-📈 Key KPIs
+* Toyota leads with the highest revenue and profit
+* Sales dropped significantly (~40%) from March to April
+* Recovery observed in June (~1.01B revenue)
 
-- Total Revenue
-- Total Profit
-- Total Units Sold
+## Files
 
-🔍 Key Insights
+* `car-sales-dashboard.pbix` → Main dashboard file
+* `dashboard.png` → Dashboard preview
 
-- Sales peak in February, indicating seasonal demand
-- Toyota is the top-performing brand in terms of revenue and profit
-- Some brands generate high sales but lower profit margins
-- Sales declined during April–May and showed recovery in June
+## Screenshot
 
-💡 Business Recommendations
+(<img width="1242" height="641" alt="Screenshot 2026-05-02 143436" src="https://github.com/user-attachments/assets/74930d19-8e25-4515-8ab3-c4cce4463773" />
+)
 
-- Focus on high-profit products instead of only high sales
-- Increase inventory during peak sales periods
-- Review low-profit brands to improve margins
+## Author
 
-📷 Dashboard Preview
-
-Main Dashboard
-
-"Dashboard" <img width="1323" height="656" alt="Screenshot 2026-04-17 094949" src="https://github.com/user-attachments/assets/4205cea2-b80f-49e6-9d6a-6c7e8e70ba8d" />
-
-
-🚀 Conclusion
-
-This dashboard provides a clear overview of sales performance, helping businesses understand trends, optimize strategies, and improve profitability.
+PRASHIMA KP
