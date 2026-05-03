@@ -1,32 +1,69 @@
-# Car Sales performance Dashboard (Power BI)
+  Car Sales Performance Dashboard (Power BI)
 
-## Overview
+## 📌 Project Overview
+This project is a Power BI-based Sales Performance Dashboard designed to analyze sales data, identify trends, and support data-driven business decision-making. The dashboard provides a structured view of key KPIs such as revenue, quantity sold, and product performance.
 
-This project analyzes car sales performance across brands and regions using Power BI. It provides insights into revenue, profit, and sales trends to support business decision-making.
+---
 
-## Key Features
+## 🎯 Business Problem
+Organizations often struggle to understand sales performance across products and categories due to fragmented data. This dashboard was built to centralize sales reporting and provide clear, interactive insights for decision-making.
 
-* Total Revenue: 5.47B AED
-* Total Profit: 904M AED
-* Units Sold: 4,287
-* Brand-wise performance analysis
-* Monthly revenue and profit trends
-* Regional sales breakdown
-* Profit vs Units analysis
+---
 
-## Tools Used
+## 🧰 Tools & Technologies
+- Microsoft Power BI
+- Power Query (Data Cleaning & Transformation)
+- DAX (Basic KPI Measures)
+- Microsoft Excel (Data Source)
 
-* Power BI
-* Power Query (Data Cleaning)
-* DAX (Basic Measures)
+---
 
-## Key Insights
+## 📊 Data Preparation Process
+- Cleaned and transformed raw sales data using Power Query
+- Handled missing values and standardized data formats
+- Created relationships between tables for proper data modeling
+- Built calculated measures using DAX for KPI reporting
 
-* Toyota leads with the highest revenue and profit
-* Sales dropped significantly (~40%) from March to April
-* Recovery observed in June (~1.01B revenue)
+---
 
-## Files
+## 📈 Key KPIs
+- Total Sales Revenue
+- Total Quantity Sold
+- Top Performing Products
+- Category-wise Sales Performance
+- Monthly Sales Trends
+
+---
+
+## 📊 Dashboard Features
+- Interactive slicers for dynamic filtering
+- KPI cards for quick business overview
+- Bar and line charts for trend analysis
+- Product and category performance breakdown
+- Drill-down analysis for deeper insights
+
+---
+
+## 💡 Key Insights
+- Identified top-performing product categories contributing to revenue
+- Highlighted seasonal sales trends across months
+- Provided visibility into product-level performance distribution
+
+---
+
+## 📁 Project Files
+- Power BI Dashboard (.pbix file)
+- Dataset (Excel file)
+- README documentation
+
+---
+
+## 🚀 Outcome
+This dashboard enables stakeholders to quickly understand sales performance, identify growth opportunities, and make data-driven business decisions.
+
+---
+
+## 🔗 GitHub Project Link
 
 * `Prashima.pbix` → Main dashboard file
 * `dashboard.png` → Dashboard preview
