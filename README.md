@@ -1,79 +1,75 @@
-# 📊 Sales Performance Dashboard (Power BI)
+ ## 📊 Sales Dashboard – Power BI
 
 ## 📌 Overview
-This project is an interactive Power BI dashboard designed to analyze sales performance, track key business KPIs, and provide actionable insights for decision-making. It transforms raw sales data into a structured reporting system for business analysis.
+This project is a Power BI dashboard built to analyze sales performance and track key business KPIs. It transforms raw sales data into interactive visual reports to support business decision-making.
 
 ---
 
-## 🎯 Business Objective
-To monitor and analyze sales performance across products and categories in order to:
-- Identify revenue trends
-- Track product performance
-- Support data-driven business decisions
+## 🎯 Business Problem
+Businesses often struggle to track performance across products and categories due to scattered data. This dashboard centralizes sales reporting to provide a clear view of performance trends and KPIs.
 
 ---
 
-## 🧰 Tools & Technologies
-- Power BI (Dashboard & Visualization)
+## 🧰 Tools Used
+- Power BI
 - Power Query (Data Cleaning & Transformation)
-- DAX (Basic KPI Calculations)
-- Excel (Data Source)
+- DAX (Basic KPI Measures)
+- Excel (Dataset Source)
 
 ---
 
-## 🔄 Data Processing
-- Cleaned and transformed raw sales data using Power Query
-- Handled missing values and standardized formats
-- Built relationships between data tables for reporting structure
-- Created calculated fields for KPI reporting using DAX
+## 🔄 Data Preparation
+- Cleaned and transformed raw data using Power Query
+- Handled missing values and formatting issues
+- Built relationships between tables for reporting
+- Created calculated KPI measures using DAX
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
+## 📊 KPIs Tracked
 - Total Revenue
 - Total Quantity Sold
-- Average Sales Value
 - Top Performing Products
 - Category-wise Sales Performance
-- Monthly Sales Trends
+- Monthly Trends
 
 ---
 
 ## 📈 Dashboard Features
-- Interactive slicers for dynamic filtering
-- KPI cards for quick business overview
-- Trend analysis using line and bar charts
-- Product and category performance breakdown
-- Drill-down capability for deeper insights
+- Interactive slicers for filtering data
+- KPI cards for quick insights
+- Trend analysis (monthly performance)
+- Product & category breakdown
+- Drill-down analysis for deeper insights
 
 ---
 
 ## 💡 Key Insights
-- Identified top-performing product categories driving revenue
-- Observed seasonal trends in monthly sales performance
-- Highlighted underperforming products for business review
-- Enabled quick comparison of category-level performance
+- Identified top-performing product categories
+- Highlighted sales trends across months
+- Detected underperforming products for improvement
+- Enabled fast decision-making using visual analytics
 
 ---
 
 ## 🚀 Outcome
-This dashboard enables stakeholders to:
-- Monitor sales performance in real time
-- Identify growth opportunities
-- Make data-driven business decisions faster and more accurately
+This dashboard helps stakeholders monitor performance, identify trends, and make data-driven decisions efficiently.
 
 ---
 
-## 📁 Project Structure
-- Power BI File (.pbix)
-- Dataset (Excel file)
+## 📁 Files in this Repository
+- Power BI file (.pbix)
+- Dataset (Excel)
 - README documentation
 
 ---
 
+## 📌 Note
+This project focuses on business intelligence reporting, KPI analysis, and dashboard development using Power BI.
 
+---
 ## Dashboard Preview
-<img width="1271" height="659" alt="Screenshot 2026-05-03 085516" src="https://github.com/user-attachments/assets/157e6c2a-9e23-4839-896b-0df8aa13a51c" />
+<img width="1271" height="659" alt="Screenshot 2026-05-03 085516" src="https://github.com/user-attachments/assets/c78d3568-341b-4f98-8f5a-3148ce25b453" />
 
 
 ## 🔗 Author
