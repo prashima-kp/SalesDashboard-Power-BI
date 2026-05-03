@@ -70,7 +70,8 @@ This dashboard enables stakeholders to quickly understand sales performance, ide
 
 ## Screenshot
 
-<img width="672" height="335" alt="Screenshot 2026-05-02 142701" src="https://github.com/user-attachments/assets/2004d8d3-0901-45a1-80c1-93d41a357b0d" />
+<img width="1271" height="659" alt="Screenshot 2026-05-03 085516" src="https://github.com/user-attachments/assets/12b24dbb-8664-47c3-a47f-e7302b4acad8" />
+
 
 
 
